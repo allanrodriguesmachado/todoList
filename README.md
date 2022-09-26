@@ -1,13 +1,15 @@
 <p align="center">
-<img src="read-me/nlw-esports-logo.svg" alt="Next Level Week Esports Logo"/></p>
+<img src="https://github.com/allanrodriguesmachado/ignite-challenge-01/blob/main/public/logo.svg" alt="To.Do List Logo"/></p>
 
 <br>
 
-## ToDo List
-
 ## Description
 It is a simple  list system<p align="center">
-<img src="read-me/app-preview.jpeg" alt="Next Level Week Esports Logo"/></p>
+<img src="https://github.com/allanrodriguesmachado/ignite-challenge-01/blob/main/public/ToDo.png" alt="ToDo List System"/></p>
+
+### Front end test
+<img src="https://github.com/allanrodriguesmachado/ignite-challenge-01/blob/main/public/TaskTest.png" alt="ToDo List System"/></p>
+
 
 ### Quickstart
 
