@@ -4,6 +4,9 @@
 <br>
 
 ## Description
+
+Application using important concepts and tools from the ReactJs ecosystem, Styled Components, MigrageJs, ContextAPI, Hooks, Axios
+
 It is a simple  list system<p align="center">
 <img src="https://github.com/allanrodriguesmachado/ignite-challenge-01/blob/main/public/ToDo.png" alt="ToDo List System"/></p>
 
